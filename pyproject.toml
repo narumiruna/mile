@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mile"
-version = "0.1.1"
+version = "0.1.2"
 description = ""
 authors = ["narumi <toucans-cutouts0f@icloud.com>"]
 
