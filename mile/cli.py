@@ -1,2 +1,5 @@
+from wise import RateRequest
+
+
 def main():
-    print("Hello, World!")
+    print(RateRequest(source="USD", target="TWD").do().value)
