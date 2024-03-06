@@ -6,7 +6,7 @@ authors = ["narumi <toucans-cutouts0f@icloud.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-wise = { git = "git@github.com:narumiruna/wise.git" }
+wise = { git = "https://github.com/narumiruna/wise.git" }
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.4.2"
